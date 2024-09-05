@@ -2283,7 +2283,7 @@ function makePrefsDlog() {
           with (dialogRows.add()) {
             staticTexts.add({ staticLabel: "Replacement Character" });
             prefsItems["changeRepToken"] = dropdowns.add({
-              stringList: [".", "_", "<space>", "nothing"],
+              stringList: ["-", ".", "_", "<space>", "nothing"],
               selectedIndex: peuINFO.specialReplaceChar,
             });
           }
