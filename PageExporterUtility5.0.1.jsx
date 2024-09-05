@@ -2276,7 +2276,7 @@ function makePrefsDlog() {
           with (dialogRows.add()) {
             staticTexts.add({ staticLabel: "Separator Character" });
             prefsItems["changeSepToken"] = dropdowns.add({
-              stringList: [".", "_", "-", "<space>", "nothing"],
+              stringList: ["-", ".", "_", "<space>", "nothing"],
               selectedIndex: peuINFO.seperatorChar,
             });
           }
