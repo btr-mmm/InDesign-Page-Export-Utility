@@ -4,6 +4,10 @@
 // Copyright (C) 2007  Scott Zanelli. Lonelytree Software. (www.lonelytreesw.com)
 // Coming to you from Quincy, MA, USA
 
+// Updated 2024 by Ben Reiner
+// for use by McGuinness Media & Marketing's design department
+// Warwick, RI, USA
+
 // This program is free software; you can redistribute it and/or
 // modify it under the terms of the GNU General Public License
 // as published by the Free Software Foundation; either version 2
